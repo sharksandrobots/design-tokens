@@ -1,6 +1,6 @@
 # Photon Design Tokens
 
-Text change
+Text change again
 A design token is an abstraction of a visual property such as color, font, width, animation, etc. These raw values are language application agnostic and once transformed and formatted can be used on any platform.
 
 For example in CSS, design tokens are used as _variables_, though there will be conversions made for iOS and Android.
